@@ -36,9 +36,9 @@ class OrderProcessor:
             total_tax += order.calculate_tax()
         return total_tax
 
-pesanan1 = Order("1", "John Doe", "2026-01-01", 10000)
-pesanan2 = Order("2", "Jane Doe", "2026-01-02", 20000)
-pesanan3 = Order("3", "Jim Doe", "2026-01-03", 30000)
+pesanan1 = Order("2KASJ12", "Giwang", "2026-01-01", 100000)
+pesanan2 = Order("2112KOA", "Dwi", "2026-01-02", 50000)
+pesanan3 = Order("239JDHA", "Kintan", "2026-01-03", 150000)
 
 processor = OrderProcessor()
 
