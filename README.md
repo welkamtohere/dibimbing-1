@@ -14,7 +14,7 @@ Saya membuat 3 pesanan:
 1. pesanan1: Giwang → Rp 100.000
 2. pesanan2: Dwi → Rp 50.000
 3. pesanan3: Kintan → Rp 150.000
-**Total revenue** = 100.000 + 50.000 + 150.000 = Rp 300.000
+Total revenue = 100.000 + 50.000 + 150.000 = Rp 300.000
 
 Pajak 10% dari masing-masing pesanan:
 
